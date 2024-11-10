@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center"> Welcome to Kalyan Technologies Private Ltd. Best Place to upskill - New Terraform Batch will start on Oct 1st at 8.00 AM IST - WebHook Demo</h1>
+<h1 align="center"> Welcome to Kalyan Technologies Private Ltd. Best Place to upskill - Going to start the PROs and Supports may be from Jan MID - WebHook Demo</h1>
 <h1 align="center">Welcome to Kalyan Technologies Private Ltd. Ph No: +91-9980923226, +91-9980923216 ,+91-9900012028,Bengaluru,Karnataka,India</h1>
-<h1 align="center"> Kalyan Technologies- Very Good Training center for DevOps with AWS,Python & AWS Solution Architect & Terraform in Bangalore India.Teaching Real Time scnerios</h1>
+<h1 align="center"> Kalyan Technologies- Very Genuine Person for DevOps with AWS, & AWS Solution Architect in Bangalore India.Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
