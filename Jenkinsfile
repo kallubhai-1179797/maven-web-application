@@ -2,7 +2,7 @@ node{
 
 def mavenHome = tool name: 'maven3.9.9'
 
-properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '5')), pipelineTriggers([cron('* * * * *')])])
+properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '', daysToKeepStr: '', numToKeepStr: '5')), pipelineTriggers([cron('* * * */2 *')])])
 
 echo "Job name is: ${env.JOB_NAME}"
 echo "Build number is: ${env.BUILD_NUMBER}"
