@@ -17,6 +17,7 @@ stage('Build'){
 sh "$mavenHome/bin/mvn clean package"
 }
 
+/*
 stage('ExecuteSonarQubeReport'){
 sh "$mavenHome/bin/mvn clean sonar:sonar"
 }
@@ -30,5 +31,6 @@ sshagent(['03d05b72-4e14-4d9b-bdcf-e119141b8e84']){
 sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@ip-172-31-42-10:/opt/apache-tomcat-9.0.96/webapps"
 }
 }
+*/
 
 }
